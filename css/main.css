@@ -374,4 +374,8 @@ main {
   display: flex;
   flex-direction: column;
   gap: 16px;
+}
+
+button {
+  cursor: pointer !important;
 }/*# sourceMappingURL=main.css.map */
